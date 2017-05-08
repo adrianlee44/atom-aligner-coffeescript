@@ -1,0 +1,25 @@
+{
+  "name": "aligner-coffeescript",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "CoffeeScript support for aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "coffeescript"
+  ],
+  "repository": "https://github.com/adrianlee44/atom-aligner-coffeescript",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "aligner.provider": {
+      "versions": {
+        "1.0.0": "getProvider"
+      }
+    }
+  }
+}
