@@ -1,7 +1,7 @@
 {
   "name": "aligner-coffeescript",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CoffeeScript support for aligner",
   "keywords": [
     "aligner",
