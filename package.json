@@ -9,7 +9,7 @@
     "align",
     "coffeescript"
   ],
-  "repository": "https://github.com/adrianlee44/atom-aligner-coffeescript",
+  "repository": "git@github.com:adrianlee44/atom-aligner-coffeescript.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
