@@ -32,7 +32,11 @@ Comments (if `Align Comments` options on)
 hello = 'world' # line 1
 foo   = 'bar'   # line 2
 ```
-
+`from`:
+```
+import foo from 'bar'
+import *   from 'https'
+```
 ## Installation
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
 
